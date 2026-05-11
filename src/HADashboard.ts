@@ -184,7 +184,6 @@ export class HADashboard extends LitElement {
             margin: 7px 0;
             min-height: calc(100% - 2 * 7px);
             display: flex;
-            flex-direction: column;
           }
 
           .sidebar > * {
